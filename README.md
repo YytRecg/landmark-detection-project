@@ -1,4 +1,4 @@
-# Landmark Detection
+# Landmark Detection (for Travel Planner App)
 A simple vision project for HackAI 2023
 
 ### Introduction
